@@ -4,7 +4,7 @@ import { auth, db } from '../firebase';
 import { onAuthStateChanged } from 'firebase/auth';
 import { collection, query, where, getDocs } from 'firebase/firestore';
 import netflix_spinner from '../assets/netflix_spinner.gif'
-import '../pages/Login/login.css'
+import '../pages/Login/Login.css'
 
 
 const AuthContext = createContext();
