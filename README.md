@@ -1,12 +1,32 @@
-# React + Vite
+# Netflix Clone 🎥
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Experience a modern Netflix-inspired streaming platform built with **ReactJS** and **Firebase**. Browse movies and TV shows, manage your favorites, and enjoy a smooth, responsive interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- Sign up and log in with **Firebase Authentication**  
+- Explore trending movies & TV shows via **TMDb API**  
+- Add movies to your **Favorites** list  
+- Fully responsive layout for desktop and mobile  
+- Real-time updates with **Firebase Firestore**  
+- Clean navigation and smooth page transitions  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** ReactJS, CSS 
+- **Backend:** Firebase Authentication & Firestore  
+- **API:** The Movie Database (TMDb)  
+- **Deployment:** Vercel  
+
+---
+
+
+🙌 Acknowledgements
+
+Inspired by the Netflix streaming platform
+
+Movie & TV data provided by TMDb API
